@@ -21,8 +21,8 @@ The polarization modes studied include:
 
 ## Repository Structure
 
-* `notebooks/`: Mathematica notebooks containing symbolic derivations and simulations.
-* `figures/`: GIF animations and figures generated from the simulations.
+* `notebooks`: Mathematica notebooks containing symbolic derivations and simulations.
+* `figures`: GIF animations and figures generated from the simulations.
 
 ## Example Polarization Modes
 
@@ -32,27 +32,27 @@ The polarization modes studied include:
 
 ### Cross Mode
 
-![](figures/crossmode.gif)
+![](crossmode.gif)
 
 ### Breathing Mode
 
-![](figures/breathing.gif)
+![](breathing.gif)
 
 ### Longitudinal Mode
 
-![](figures/longitudinal.gif)
+![](longitudinal.gif)
 
 ### Right Circular Mode
 
-![](figures/Right_Mode.gif)
+![](Right_Mode.gif)
 
 ### Mixed Mode
 
-![](figures/mixedmode.gif)
+![](mixedmode.gif)
 
 ### Mixed Mode: Plus and Breathing
 
-![](figures/breathing_plus.gif)
+![](breathing_plus.gif)
 ## Author
 
 **Cynthia Maldonado**
