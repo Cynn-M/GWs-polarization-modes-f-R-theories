@@ -1,4 +1,3 @@
-# Gravitational Wave Polarization Modes
 # Gravitational Wave Polarization Modes in Modified Gravity
 
 This repository contains Mathematica notebooks developed during my M.Sc. research in gravitational physics.
@@ -27,18 +26,33 @@ The polarization modes studied include:
 
 ## Example Polarization Modes
 
+### Plus Mode
+
+![](figures/plusmode.gif)
+
+### Cross Mode
+
+![](figures/crossmode.gif)
+
 ### Breathing Mode
 
-![](figures/breathing_mode.gif)
+![](figures/breathing.gif)
 
 ### Longitudinal Mode
 
-![](figures/longitudinal_mode.gif)
+![](figures/longitudinal.gif)
 
 ### Right Circular Mode
 
-![](figures/right_circular_mode.gif)
+![](figures/Right_Mode.gif)
 
+### Mixed Mode
+
+![](figures/mixedmode.gif)
+
+### Mixed Mode: Plus and Breathing
+
+![](figures/breathing_plus.gif)
 ## Author
 
 **Cynthia Maldonado**
