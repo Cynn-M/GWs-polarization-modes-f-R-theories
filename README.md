@@ -28,7 +28,7 @@ The polarization modes studied include:
 
 ### Plus Mode
 
-![](figures/plusmode.gif)
+![](plusmode.gif)
 
 ### Cross Mode
 
